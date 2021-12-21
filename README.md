@@ -21,7 +21,7 @@
 
 DEPLOY TO HEROKU
 
- <a href="https://heroku.com/deploy?template=https://github.com/gsoosk/TelegramSpotifyDownloader/tree/heroku">
+ <a href="https://heroku.com/deploy?template=https://github.com/Mrushan2021/SpotifyBOT/tree/heroku">
     <img src="https://www.herokucdn.com/deploy/button.svg" width="180">
   
 ## What is it?
