@@ -18,7 +18,10 @@
     <img src="https://img.shields.io/github/forks/gsoosk/TelegramSpotifyDownloader?label=Fork&style=social">
   </a>  
 </p>
-
+DEPLOY TO HEROKU
+ <a href="https://heroku.com/deploy?template=https://github.com/gsoosk/TelegramSpotifyDownloader/tree/heroku">
+    <img src="https://www.herokucdn.com/deploy/button.svg" width="180">
+  
 ## What is it?
 This is a simple bot to download songs from YouTube in an MP3 format by using Spotify's HTTP link.
 
