@@ -7,8 +7,8 @@
   <a href="https://heroku.com/deploy?template=https://github.com/Mrushan2021/SpotifyBOT/tree/heroku">
     <img src="https://www.herokucdn.com/deploy/button.svg" width="180">
   </a>
-  <a href="https://t.me/spotdl_tel_bot">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=Demo" width="240">
+  <a href="https://t.me/mrushansubhagya">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&label=ME" width="240">
   </a>
   <br>
   <a href="https://github.com/gsoosk/TelegramSpotifyDownloader/stargazers">
