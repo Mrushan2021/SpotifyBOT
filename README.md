@@ -4,7 +4,7 @@
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width ="250">
   </a>
-  <a href="https://heroku.com/deploy?template=https://github.com/Mrushan2021/SpotifyBOT.git">
+  <a href="https://heroku.com/deploy?template=https://github.com/Mrushan2021/SpotifyBOT/tree/heroku">
     <img src="https://www.herokucdn.com/deploy/button.svg" width="180">
   </a>
   <a href="https://t.me/spotdl_tel_bot">
